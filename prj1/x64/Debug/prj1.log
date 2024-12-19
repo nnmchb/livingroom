@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (prj1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(127,1): warning C4005: 'CALLBACK': macro redefinition
+  (compiling source file 'main.cpp')
+  E:\thiett ke do hoa\Living_Room\prj1\glut.h(33,1):
+  see previous definition of 'CALLBACK'
+  
+  prj1.vcxproj -> E:\thiett ke do hoa\Living_Room\x64\Debug\Living_room.exe
